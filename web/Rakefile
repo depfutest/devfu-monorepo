@@ -1,0 +1,6 @@
+desc "Fake Test Task"
+task :test do
+  puts "Testing the web"
+end
+
+task default: :test
