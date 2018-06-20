@@ -1,6 +1,0 @@
-desc "Fake Test Task"
-task :test do
-  puts "Testing the api"
-end
-
-task default: :test
